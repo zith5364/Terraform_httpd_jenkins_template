@@ -1,3 +1,10 @@
+You can observe
+1.Modules
+2.Resources
+3.Null resources
+4.env variable,maps and Lookup for multiple environments
+5.Breaking out variable definitions.
+
 # Terraform_httpd_jenkins_template
 It will create httpd docker container if you choose dev environment and it will create jenkins container if you choose prod environment
 
